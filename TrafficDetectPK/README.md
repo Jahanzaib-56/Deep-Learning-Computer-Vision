@@ -63,7 +63,7 @@ The trained model was tested on self-recorded footage from a local road in Sargo
 ### Sample Detections
 
 <p align="center">
-  <img src="sample_images/Frame_01.png" width="30%"/>
+  <img src=TrafficDetectPK/sample_images/Frame_01.PNG" width="30%"/>
   <img src="sample_images/Frame_02.png" width="30%"/>
   <img src="sample_images/Frame_03.png" width="30%"/>
 </p>
