@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Recognition — CNN Architecture Comparison
+# 🚦 TrafficSignNet — CNN Architecture Comparison
 
 A systematic benchmarking study of three CNN architectures for traffic sign classification on the [GTSRB dataset](https://benchmark.ini.rub.de/gtsrb_news.html), evaluating accuracy, generalisation, inference speed, and model size for autonomous driving deployment scenarios.
 
