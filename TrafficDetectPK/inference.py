@@ -12,7 +12,4 @@ results = model.predict(
     show = True,
 )
 
-for r in results:
-    pass
-
 print("Inference Complete.....")
